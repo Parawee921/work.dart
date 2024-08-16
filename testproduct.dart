@@ -10,5 +10,5 @@ void main(List<String> args) {
   print('ID : ${myProduct.id}');
   print('Name : ${myProduct.name}');
   print('Price : ${myProduct.price}');
-  print(myProduct.balance);
+  print('Balance : ${myProduct.balance}');
 }
